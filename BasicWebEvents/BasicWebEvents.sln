@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicWebEvents", "BasicWebEvents\BasicWebEvents.csproj", "{1F183035-33E8-40E3-BC92-526BA328024B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicWindowsEvents", "BasicWindowsEvent\BasicWindowsEvents.csproj", "{BB0D60CB-7B9F-4C4D-9809-28A486D90431}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F183035-33E8-40E3-BC92-526BA328024B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F183035-33E8-40E3-BC92-526BA328024B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F183035-33E8-40E3-BC92-526BA328024B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F183035-33E8-40E3-BC92-526BA328024B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB0D60CB-7B9F-4C4D-9809-28A486D90431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0D60CB-7B9F-4C4D-9809-28A486D90431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0D60CB-7B9F-4C4D-9809-28A486D90431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0D60CB-7B9F-4C4D-9809-28A486D90431}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {820FB62C-B36C-4578-B26C-EB4E688E5079}
+	EndGlobalSection
+EndGlobal

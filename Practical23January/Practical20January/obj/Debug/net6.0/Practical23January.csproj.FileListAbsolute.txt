@@ -1,0 +1,15 @@
+D:\Code\ASP.NET core MVC\Practical20January\Practical20January\bin\Debug\net6.0\Practical23January.exe
+D:\Code\ASP.NET core MVC\Practical20January\Practical20January\bin\Debug\net6.0\Practical23January.deps.json
+D:\Code\ASP.NET core MVC\Practical20January\Practical20January\bin\Debug\net6.0\Practical23January.runtimeconfig.json
+D:\Code\ASP.NET core MVC\Practical20January\Practical20January\bin\Debug\net6.0\Practical23January.dll
+D:\Code\ASP.NET core MVC\Practical20January\Practical20January\bin\Debug\net6.0\Practical23January.pdb
+D:\Code\ASP.NET core MVC\Practical20January\Practical20January\obj\Debug\net6.0\Practical23January.csproj.AssemblyReference.cache
+D:\Code\ASP.NET core MVC\Practical20January\Practical20January\obj\Debug\net6.0\Practical23January.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\ASP.NET core MVC\Practical20January\Practical20January\obj\Debug\net6.0\Practical23January.AssemblyInfoInputs.cache
+D:\Code\ASP.NET core MVC\Practical20January\Practical20January\obj\Debug\net6.0\Practical23January.AssemblyInfo.cs
+D:\Code\ASP.NET core MVC\Practical20January\Practical20January\obj\Debug\net6.0\Practical23January.csproj.CoreCompileInputs.cache
+D:\Code\ASP.NET core MVC\Practical20January\Practical20January\obj\Debug\net6.0\Practical23January.dll
+D:\Code\ASP.NET core MVC\Practical20January\Practical20January\obj\Debug\net6.0\refint\Practical23January.dll
+D:\Code\ASP.NET core MVC\Practical20January\Practical20January\obj\Debug\net6.0\Practical23January.pdb
+D:\Code\ASP.NET core MVC\Practical20January\Practical20January\obj\Debug\net6.0\Practical23January.genruntimeconfig.cache
+D:\Code\ASP.NET core MVC\Practical20January\Practical20January\obj\Debug\net6.0\ref\Practical23January.dll

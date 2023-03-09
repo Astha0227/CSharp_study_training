@@ -1,0 +1,15 @@
+D:\Code\Jan06Inheritance\AbstractImlimentation\bin\Debug\net6.0\AbstractImplimantation.exe
+D:\Code\Jan06Inheritance\AbstractImlimentation\bin\Debug\net6.0\AbstractImplimantation.deps.json
+D:\Code\Jan06Inheritance\AbstractImlimentation\bin\Debug\net6.0\AbstractImplimantation.runtimeconfig.json
+D:\Code\Jan06Inheritance\AbstractImlimentation\bin\Debug\net6.0\AbstractImplimantation.dll
+D:\Code\Jan06Inheritance\AbstractImlimentation\bin\Debug\net6.0\AbstractImplimantation.pdb
+D:\Code\Jan06Inheritance\AbstractImlimentation\obj\Debug\net6.0\AbstractImplimantation.csproj.AssemblyReference.cache
+D:\Code\Jan06Inheritance\AbstractImlimentation\obj\Debug\net6.0\AbstractImplimantation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Jan06Inheritance\AbstractImlimentation\obj\Debug\net6.0\AbstractImplimantation.AssemblyInfoInputs.cache
+D:\Code\Jan06Inheritance\AbstractImlimentation\obj\Debug\net6.0\AbstractImplimantation.AssemblyInfo.cs
+D:\Code\Jan06Inheritance\AbstractImlimentation\obj\Debug\net6.0\AbstractImplimantation.csproj.CoreCompileInputs.cache
+D:\Code\Jan06Inheritance\AbstractImlimentation\obj\Debug\net6.0\AbstractImplimantation.dll
+D:\Code\Jan06Inheritance\AbstractImlimentation\obj\Debug\net6.0\refint\AbstractImplimantation.dll
+D:\Code\Jan06Inheritance\AbstractImlimentation\obj\Debug\net6.0\AbstractImplimantation.pdb
+D:\Code\Jan06Inheritance\AbstractImlimentation\obj\Debug\net6.0\AbstractImplimantation.genruntimeconfig.cache
+D:\Code\Jan06Inheritance\AbstractImlimentation\obj\Debug\net6.0\ref\AbstractImplimantation.dll

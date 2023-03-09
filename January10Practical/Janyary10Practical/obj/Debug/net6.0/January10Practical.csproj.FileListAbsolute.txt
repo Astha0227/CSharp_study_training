@@ -1,0 +1,15 @@
+D:\Code\Janyary10Practical\Janyary10Practical\obj\Debug\net6.0\January10Practical.csproj.AssemblyReference.cache
+D:\Code\Janyary10Practical\Janyary10Practical\obj\Debug\net6.0\January10Practical.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Janyary10Practical\Janyary10Practical\obj\Debug\net6.0\January10Practical.AssemblyInfoInputs.cache
+D:\Code\Janyary10Practical\Janyary10Practical\obj\Debug\net6.0\January10Practical.AssemblyInfo.cs
+D:\Code\Janyary10Practical\Janyary10Practical\obj\Debug\net6.0\January10Practical.csproj.CoreCompileInputs.cache
+D:\Code\Janyary10Practical\Janyary10Practical\bin\Debug\net6.0\January10Practical.exe
+D:\Code\Janyary10Practical\Janyary10Practical\bin\Debug\net6.0\January10Practical.deps.json
+D:\Code\Janyary10Practical\Janyary10Practical\bin\Debug\net6.0\January10Practical.runtimeconfig.json
+D:\Code\Janyary10Practical\Janyary10Practical\bin\Debug\net6.0\January10Practical.dll
+D:\Code\Janyary10Practical\Janyary10Practical\bin\Debug\net6.0\January10Practical.pdb
+D:\Code\Janyary10Practical\Janyary10Practical\obj\Debug\net6.0\January10Practical.dll
+D:\Code\Janyary10Practical\Janyary10Practical\obj\Debug\net6.0\refint\January10Practical.dll
+D:\Code\Janyary10Practical\Janyary10Practical\obj\Debug\net6.0\January10Practical.pdb
+D:\Code\Janyary10Practical\Janyary10Practical\obj\Debug\net6.0\January10Practical.genruntimeconfig.cache
+D:\Code\Janyary10Practical\Janyary10Practical\obj\Debug\net6.0\ref\January10Practical.dll

@@ -1,0 +1,15 @@
+D:\Code\Jan06Inheritance\Jan06Inheritance\bin\Debug\net6.0\Jan06Inheritance.exe
+D:\Code\Jan06Inheritance\Jan06Inheritance\bin\Debug\net6.0\Jan06Inheritance.deps.json
+D:\Code\Jan06Inheritance\Jan06Inheritance\bin\Debug\net6.0\Jan06Inheritance.runtimeconfig.json
+D:\Code\Jan06Inheritance\Jan06Inheritance\bin\Debug\net6.0\Jan06Inheritance.dll
+D:\Code\Jan06Inheritance\Jan06Inheritance\bin\Debug\net6.0\Jan06Inheritance.pdb
+D:\Code\Jan06Inheritance\Jan06Inheritance\obj\Debug\net6.0\Jan06Inheritance.csproj.AssemblyReference.cache
+D:\Code\Jan06Inheritance\Jan06Inheritance\obj\Debug\net6.0\Jan06Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Jan06Inheritance\Jan06Inheritance\obj\Debug\net6.0\Jan06Inheritance.AssemblyInfoInputs.cache
+D:\Code\Jan06Inheritance\Jan06Inheritance\obj\Debug\net6.0\Jan06Inheritance.AssemblyInfo.cs
+D:\Code\Jan06Inheritance\Jan06Inheritance\obj\Debug\net6.0\Jan06Inheritance.csproj.CoreCompileInputs.cache
+D:\Code\Jan06Inheritance\Jan06Inheritance\obj\Debug\net6.0\Jan06Inheritance.dll
+D:\Code\Jan06Inheritance\Jan06Inheritance\obj\Debug\net6.0\refint\Jan06Inheritance.dll
+D:\Code\Jan06Inheritance\Jan06Inheritance\obj\Debug\net6.0\Jan06Inheritance.pdb
+D:\Code\Jan06Inheritance\Jan06Inheritance\obj\Debug\net6.0\Jan06Inheritance.genruntimeconfig.cache
+D:\Code\Jan06Inheritance\Jan06Inheritance\obj\Debug\net6.0\ref\Jan06Inheritance.dll

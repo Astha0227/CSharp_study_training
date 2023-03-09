@@ -1,0 +1,30 @@
+D:\Code\ASP.NET core MVC\February10Practical\February10Practical\bin\Debug\net6.0\February10Practical.exe
+D:\Code\ASP.NET core MVC\February10Practical\February10Practical\bin\Debug\net6.0\February10Practical.deps.json
+D:\Code\ASP.NET core MVC\February10Practical\February10Practical\bin\Debug\net6.0\February10Practical.runtimeconfig.json
+D:\Code\ASP.NET core MVC\February10Practical\February10Practical\bin\Debug\net6.0\February10Practical.dll
+D:\Code\ASP.NET core MVC\February10Practical\February10Practical\bin\Debug\net6.0\February10Practical.pdb
+D:\Code\ASP.NET core MVC\February10Practical\February10Practical\obj\Debug\net6.0\February10Practical.csproj.AssemblyReference.cache
+D:\Code\ASP.NET core MVC\February10Practical\February10Practical\obj\Debug\net6.0\February10Practical.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\ASP.NET core MVC\February10Practical\February10Practical\obj\Debug\net6.0\February10Practical.AssemblyInfoInputs.cache
+D:\Code\ASP.NET core MVC\February10Practical\February10Practical\obj\Debug\net6.0\February10Practical.AssemblyInfo.cs
+D:\Code\ASP.NET core MVC\February10Practical\February10Practical\obj\Debug\net6.0\February10Practical.csproj.CoreCompileInputs.cache
+D:\Code\ASP.NET core MVC\February10Practical\February10Practical\obj\Debug\net6.0\February10Practical.dll
+D:\Code\ASP.NET core MVC\February10Practical\February10Practical\obj\Debug\net6.0\refint\February10Practical.dll
+D:\Code\ASP.NET core MVC\February10Practical\February10Practical\obj\Debug\net6.0\February10Practical.pdb
+D:\Code\ASP.NET core MVC\February10Practical\February10Practical\obj\Debug\net6.0\February10Practical.genruntimeconfig.cache
+D:\Code\ASP.NET core MVC\February10Practical\February10Practical\obj\Debug\net6.0\ref\February10Practical.dll
+D:\Code\February10Practical\February10Practical\obj\Debug\net6.0\February10Practical.csproj.AssemblyReference.cache
+D:\Code\February10Practical\February10Practical\obj\Debug\net6.0\February10Practical.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\February10Practical\February10Practical\obj\Debug\net6.0\February10Practical.AssemblyInfoInputs.cache
+D:\Code\February10Practical\February10Practical\obj\Debug\net6.0\February10Practical.AssemblyInfo.cs
+D:\Code\February10Practical\February10Practical\obj\Debug\net6.0\February10Practical.csproj.CoreCompileInputs.cache
+D:\Code\February10Practical\February10Practical\obj\Debug\net6.0\February10Practical.dll
+D:\Code\February10Practical\February10Practical\obj\Debug\net6.0\refint\February10Practical.dll
+D:\Code\February10Practical\February10Practical\obj\Debug\net6.0\February10Practical.pdb
+D:\Code\February10Practical\February10Practical\bin\Debug\net6.0\February10Practical.exe
+D:\Code\February10Practical\February10Practical\bin\Debug\net6.0\February10Practical.deps.json
+D:\Code\February10Practical\February10Practical\bin\Debug\net6.0\February10Practical.runtimeconfig.json
+D:\Code\February10Practical\February10Practical\bin\Debug\net6.0\February10Practical.dll
+D:\Code\February10Practical\February10Practical\bin\Debug\net6.0\February10Practical.pdb
+D:\Code\February10Practical\February10Practical\obj\Debug\net6.0\February10Practical.genruntimeconfig.cache
+D:\Code\February10Practical\February10Practical\obj\Debug\net6.0\ref\February10Practical.dll

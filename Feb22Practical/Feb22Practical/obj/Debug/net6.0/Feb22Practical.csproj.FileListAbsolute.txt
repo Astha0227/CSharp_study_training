@@ -1,0 +1,15 @@
+D:\Code\Feb22Practical\Feb22Practical\bin\Debug\net6.0\Feb22Practical.exe
+D:\Code\Feb22Practical\Feb22Practical\bin\Debug\net6.0\Feb22Practical.deps.json
+D:\Code\Feb22Practical\Feb22Practical\bin\Debug\net6.0\Feb22Practical.runtimeconfig.json
+D:\Code\Feb22Practical\Feb22Practical\bin\Debug\net6.0\Feb22Practical.dll
+D:\Code\Feb22Practical\Feb22Practical\bin\Debug\net6.0\Feb22Practical.pdb
+D:\Code\Feb22Practical\Feb22Practical\obj\Debug\net6.0\Feb22Practical.csproj.AssemblyReference.cache
+D:\Code\Feb22Practical\Feb22Practical\obj\Debug\net6.0\Feb22Practical.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Feb22Practical\Feb22Practical\obj\Debug\net6.0\Feb22Practical.AssemblyInfoInputs.cache
+D:\Code\Feb22Practical\Feb22Practical\obj\Debug\net6.0\Feb22Practical.AssemblyInfo.cs
+D:\Code\Feb22Practical\Feb22Practical\obj\Debug\net6.0\Feb22Practical.csproj.CoreCompileInputs.cache
+D:\Code\Feb22Practical\Feb22Practical\obj\Debug\net6.0\Feb22Practical.dll
+D:\Code\Feb22Practical\Feb22Practical\obj\Debug\net6.0\refint\Feb22Practical.dll
+D:\Code\Feb22Practical\Feb22Practical\obj\Debug\net6.0\Feb22Practical.pdb
+D:\Code\Feb22Practical\Feb22Practical\obj\Debug\net6.0\Feb22Practical.genruntimeconfig.cache
+D:\Code\Feb22Practical\Feb22Practical\obj\Debug\net6.0\ref\Feb22Practical.dll

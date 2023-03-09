@@ -1,0 +1,15 @@
+D:\Code\04JanuaryStudy\04JanuaryStudy\obj\Debug\net6.0\04JanuaryStudy.csproj.AssemblyReference.cache
+D:\Code\04JanuaryStudy\04JanuaryStudy\obj\Debug\net6.0\04JanuaryStudy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\04JanuaryStudy\04JanuaryStudy\obj\Debug\net6.0\04JanuaryStudy.AssemblyInfoInputs.cache
+D:\Code\04JanuaryStudy\04JanuaryStudy\obj\Debug\net6.0\04JanuaryStudy.AssemblyInfo.cs
+D:\Code\04JanuaryStudy\04JanuaryStudy\obj\Debug\net6.0\04JanuaryStudy.csproj.CoreCompileInputs.cache
+D:\Code\04JanuaryStudy\04JanuaryStudy\bin\Debug\net6.0\04JanuaryStudy.exe
+D:\Code\04JanuaryStudy\04JanuaryStudy\bin\Debug\net6.0\04JanuaryStudy.deps.json
+D:\Code\04JanuaryStudy\04JanuaryStudy\bin\Debug\net6.0\04JanuaryStudy.runtimeconfig.json
+D:\Code\04JanuaryStudy\04JanuaryStudy\bin\Debug\net6.0\04JanuaryStudy.dll
+D:\Code\04JanuaryStudy\04JanuaryStudy\bin\Debug\net6.0\04JanuaryStudy.pdb
+D:\Code\04JanuaryStudy\04JanuaryStudy\obj\Debug\net6.0\04JanuaryStudy.dll
+D:\Code\04JanuaryStudy\04JanuaryStudy\obj\Debug\net6.0\refint\04JanuaryStudy.dll
+D:\Code\04JanuaryStudy\04JanuaryStudy\obj\Debug\net6.0\04JanuaryStudy.pdb
+D:\Code\04JanuaryStudy\04JanuaryStudy\obj\Debug\net6.0\04JanuaryStudy.genruntimeconfig.cache
+D:\Code\04JanuaryStudy\04JanuaryStudy\obj\Debug\net6.0\ref\04JanuaryStudy.dll

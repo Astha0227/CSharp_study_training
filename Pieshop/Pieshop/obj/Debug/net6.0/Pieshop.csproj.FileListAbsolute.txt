@@ -1,0 +1,15 @@
+D:\Code\Pieshop\Pieshop\bin\Debug\net6.0\Pieshop.exe
+D:\Code\Pieshop\Pieshop\bin\Debug\net6.0\Pieshop.deps.json
+D:\Code\Pieshop\Pieshop\bin\Debug\net6.0\Pieshop.runtimeconfig.json
+D:\Code\Pieshop\Pieshop\bin\Debug\net6.0\Pieshop.dll
+D:\Code\Pieshop\Pieshop\bin\Debug\net6.0\Pieshop.pdb
+D:\Code\Pieshop\Pieshop\obj\Debug\net6.0\Pieshop.csproj.AssemblyReference.cache
+D:\Code\Pieshop\Pieshop\obj\Debug\net6.0\Pieshop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Pieshop\Pieshop\obj\Debug\net6.0\Pieshop.AssemblyInfoInputs.cache
+D:\Code\Pieshop\Pieshop\obj\Debug\net6.0\Pieshop.AssemblyInfo.cs
+D:\Code\Pieshop\Pieshop\obj\Debug\net6.0\Pieshop.csproj.CoreCompileInputs.cache
+D:\Code\Pieshop\Pieshop\obj\Debug\net6.0\Pieshop.dll
+D:\Code\Pieshop\Pieshop\obj\Debug\net6.0\refint\Pieshop.dll
+D:\Code\Pieshop\Pieshop\obj\Debug\net6.0\Pieshop.pdb
+D:\Code\Pieshop\Pieshop\obj\Debug\net6.0\Pieshop.genruntimeconfig.cache
+D:\Code\Pieshop\Pieshop\obj\Debug\net6.0\ref\Pieshop.dll

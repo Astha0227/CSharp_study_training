@@ -1,0 +1,15 @@
+D:\Code\testconsole05Jan\testconsole05Jan\obj\Debug\net6.0\testconsole05Jan.csproj.AssemblyReference.cache
+D:\Code\testconsole05Jan\testconsole05Jan\obj\Debug\net6.0\testconsole05Jan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\testconsole05Jan\testconsole05Jan\obj\Debug\net6.0\testconsole05Jan.AssemblyInfoInputs.cache
+D:\Code\testconsole05Jan\testconsole05Jan\obj\Debug\net6.0\testconsole05Jan.AssemblyInfo.cs
+D:\Code\testconsole05Jan\testconsole05Jan\obj\Debug\net6.0\testconsole05Jan.csproj.CoreCompileInputs.cache
+D:\Code\testconsole05Jan\testconsole05Jan\bin\Debug\net6.0\testconsole05Jan.exe
+D:\Code\testconsole05Jan\testconsole05Jan\bin\Debug\net6.0\testconsole05Jan.deps.json
+D:\Code\testconsole05Jan\testconsole05Jan\bin\Debug\net6.0\testconsole05Jan.runtimeconfig.json
+D:\Code\testconsole05Jan\testconsole05Jan\bin\Debug\net6.0\testconsole05Jan.dll
+D:\Code\testconsole05Jan\testconsole05Jan\bin\Debug\net6.0\testconsole05Jan.pdb
+D:\Code\testconsole05Jan\testconsole05Jan\obj\Debug\net6.0\testconsole05Jan.dll
+D:\Code\testconsole05Jan\testconsole05Jan\obj\Debug\net6.0\refint\testconsole05Jan.dll
+D:\Code\testconsole05Jan\testconsole05Jan\obj\Debug\net6.0\testconsole05Jan.pdb
+D:\Code\testconsole05Jan\testconsole05Jan\obj\Debug\net6.0\testconsole05Jan.genruntimeconfig.cache
+D:\Code\testconsole05Jan\testconsole05Jan\obj\Debug\net6.0\ref\testconsole05Jan.dll

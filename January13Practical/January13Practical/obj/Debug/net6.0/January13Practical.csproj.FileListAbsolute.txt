@@ -1,0 +1,15 @@
+D:\Code\January13Practical\January13Practical\bin\Debug\net6.0\January13Practical.exe
+D:\Code\January13Practical\January13Practical\bin\Debug\net6.0\January13Practical.deps.json
+D:\Code\January13Practical\January13Practical\bin\Debug\net6.0\January13Practical.runtimeconfig.json
+D:\Code\January13Practical\January13Practical\bin\Debug\net6.0\January13Practical.dll
+D:\Code\January13Practical\January13Practical\bin\Debug\net6.0\January13Practical.pdb
+D:\Code\January13Practical\January13Practical\obj\Debug\net6.0\January13Practical.csproj.AssemblyReference.cache
+D:\Code\January13Practical\January13Practical\obj\Debug\net6.0\January13Practical.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\January13Practical\January13Practical\obj\Debug\net6.0\January13Practical.AssemblyInfoInputs.cache
+D:\Code\January13Practical\January13Practical\obj\Debug\net6.0\January13Practical.AssemblyInfo.cs
+D:\Code\January13Practical\January13Practical\obj\Debug\net6.0\January13Practical.csproj.CoreCompileInputs.cache
+D:\Code\January13Practical\January13Practical\obj\Debug\net6.0\January13Practical.dll
+D:\Code\January13Practical\January13Practical\obj\Debug\net6.0\refint\January13Practical.dll
+D:\Code\January13Practical\January13Practical\obj\Debug\net6.0\January13Practical.pdb
+D:\Code\January13Practical\January13Practical\obj\Debug\net6.0\January13Practical.genruntimeconfig.cache
+D:\Code\January13Practical\January13Practical\obj\Debug\net6.0\ref\January13Practical.dll

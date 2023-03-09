@@ -1,0 +1,17 @@
+D:\Code\Pieshop2\Pieshop2\bin\Debug\net6.0\Pieshop2.exe
+D:\Code\Pieshop2\Pieshop2\bin\Debug\net6.0\Pieshop2.deps.json
+D:\Code\Pieshop2\Pieshop2\bin\Debug\net6.0\Pieshop2.runtimeconfig.json
+D:\Code\Pieshop2\Pieshop2\bin\Debug\net6.0\Pieshop2.dll
+D:\Code\Pieshop2\Pieshop2\bin\Debug\net6.0\Pieshop2.pdb
+D:\Code\Pieshop2\Pieshop2\obj\Debug\net6.0\Pieshop2.csproj.AssemblyReference.cache
+D:\Code\Pieshop2\Pieshop2\obj\Debug\net6.0\Pieshop2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Pieshop2\Pieshop2\obj\Debug\net6.0\Pieshop2.AssemblyInfoInputs.cache
+D:\Code\Pieshop2\Pieshop2\obj\Debug\net6.0\Pieshop2.AssemblyInfo.cs
+D:\Code\Pieshop2\Pieshop2\obj\Debug\net6.0\Pieshop2.csproj.CoreCompileInputs.cache
+D:\Code\Pieshop2\Pieshop2\obj\Debug\net6.0\Pieshop2.dll
+D:\Code\Pieshop2\Pieshop2\obj\Debug\net6.0\refint\Pieshop2.dll
+D:\Code\Pieshop2\Pieshop2\obj\Debug\net6.0\Pieshop2.pdb
+D:\Code\Pieshop2\Pieshop2\obj\Debug\net6.0\Pieshop2.genruntimeconfig.cache
+D:\Code\Pieshop2\Pieshop2\obj\Debug\net6.0\ref\Pieshop2.dll
+D:\Code\Pieshop2\Pieshop2\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Code\Pieshop2\Pieshop2\obj\Debug\net6.0\Pieshop2.csproj.CopyComplete

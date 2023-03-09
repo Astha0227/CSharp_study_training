@@ -1,0 +1,15 @@
+D:\Code\January04Project02\January04Project02\bin\Debug\net6.0\January04Project02.exe
+D:\Code\January04Project02\January04Project02\bin\Debug\net6.0\January04Project02.deps.json
+D:\Code\January04Project02\January04Project02\bin\Debug\net6.0\January04Project02.runtimeconfig.json
+D:\Code\January04Project02\January04Project02\bin\Debug\net6.0\January04Project02.dll
+D:\Code\January04Project02\January04Project02\bin\Debug\net6.0\January04Project02.pdb
+D:\Code\January04Project02\January04Project02\obj\Debug\net6.0\January04Project02.csproj.AssemblyReference.cache
+D:\Code\January04Project02\January04Project02\obj\Debug\net6.0\January04Project02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\January04Project02\January04Project02\obj\Debug\net6.0\January04Project02.AssemblyInfoInputs.cache
+D:\Code\January04Project02\January04Project02\obj\Debug\net6.0\January04Project02.AssemblyInfo.cs
+D:\Code\January04Project02\January04Project02\obj\Debug\net6.0\January04Project02.csproj.CoreCompileInputs.cache
+D:\Code\January04Project02\January04Project02\obj\Debug\net6.0\January04Project02.dll
+D:\Code\January04Project02\January04Project02\obj\Debug\net6.0\refint\January04Project02.dll
+D:\Code\January04Project02\January04Project02\obj\Debug\net6.0\January04Project02.pdb
+D:\Code\January04Project02\January04Project02\obj\Debug\net6.0\January04Project02.genruntimeconfig.cache
+D:\Code\January04Project02\January04Project02\obj\Debug\net6.0\ref\January04Project02.dll

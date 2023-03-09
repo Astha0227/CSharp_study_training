@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "05n0qPx0jwiNvs8kGHe/KhUwHiMfg7T9ddGgmv+KuXLXVg4HfBxj30QhEuXFq/bxOEJYjFZETrBygo56xUgENw==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\Pieshop2\\Pieshop2\\Pieshop2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Astha Prajapati\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
